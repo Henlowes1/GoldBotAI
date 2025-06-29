@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 import joblib
 
-SYMBOL = "XAUUSD"
+SYMBOL = "XAUUSD_SB"
 TIMEFRAME = mt5.TIMEFRAME_M5
 CANDLES = 1000
 
